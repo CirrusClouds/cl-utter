@@ -1,9 +1,3 @@
-# cl-unittest
-### _Your Name <your.name@example.com>_
+# cl-utter
 
-This is a project to do ... something.
-
-## License
-
-Specify license here
-
+My common lisp unit testing framework and debug logger that I use packaged with everything I make
