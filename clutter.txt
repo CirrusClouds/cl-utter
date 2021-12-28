@@ -1,0 +1,72 @@
+[DEBUG] testing the following: NIL
+[DEBUG] testing the following: (EXAMPLE-TEST-1 EXAMPLE-TEST-2 EXAMPLE-TEST-3)
+[INFO] EXAMPLE-TEST-1
+[DEBUG] testing whether (+ 1 2) is EQ 4
+[ERROR] Expected EQ 4, but got 3 for (+ 1 2)
+[INFO] EXAMPLE-TEST-2
+[DEBUG] testing whether 3 is MEMBER 5
+[DEBUG] Assertion threw an error, checking all components of the test are valid
+[ERROR] The expression (MEMBER *FUNCTION* *EXPECTED*) cannot be evaluated
+[INFO] EXAMPLE-TEST-3
+[DEBUG] testing the following: (EXAMPLE-TEST-1 EXAMPLE-TEST-2 EXAMPLE-TEST-3)
+[INFO] EXAMPLE-TEST-1
+[DEBUG] testing whether (+ 1 2) is EQ 4
+[ERROR] Expected EQ 4, but got 3 for (+ 1 2)
+[INFO] EXAMPLE-TEST-2
+[DEBUG] testing whether 3 is MEMBER 5
+[DEBUG] Assertion threw an error, checking all components of the test are valid
+[ERROR] The expression (MEMBER *FUNCTION* *EXPECTED*) cannot be evaluated
+[INFO] EXAMPLE-TEST-3
+[DEBUG] testing the following: (EXAMPLE-TEST-1 EXAMPLE-TEST-2)
+[INFO] EXAMPLE-TEST-1
+[DEBUG] testing whether (+ 1 2) is EQ 4
+[ERROR] Expected EQ 4, but got 3 for (+ 1 2)
+[INFO] EXAMPLE-TEST-2
+[DEBUG] testing whether 3 is MEMBER 5
+[DEBUG] Assertion threw an error, checking all components of the test are valid
+[ERROR] The expression (MEMBER *FUNCTION* *EXPECTED*) cannot be evaluated
+[DEBUG] testing the following: (EXAMPLE-TEST-1 EXAMPLE-TEST-2)
+[INFO] EXAMPLE-TEST-1
+[DEBUG] testing whether (+ 1 2) is EQ 4
+[ERROR] Expected EQ 4, but got 3 for (+ 1 2)
+[INFO] EXAMPLE-TEST-2
+[DEBUG] testing whether 3 is MEMBER 5
+[DEBUG] Assertion threw an error, checking all components of the test are valid
+[ERROR] The expression (MEMBER *FUNCTION* *EXPECTED*) cannot be evaluated
+[DEBUG] testing the following: (EXAMPLE-TEST-1 EXAMPLE-TEST-2)
+[INFO] EXAMPLE-TEST-1
+[DEBUG] testing whether (+ 1 2) is EQ 3
+[INFO] Pass
+[INFO] EXAMPLE-TEST-2
+[DEBUG] testing whether 3 is MEMBER 5
+[DEBUG] Assertion threw an error, checking all components of the test are valid
+[ERROR] The expression (MEMBER *FUNCTION* *EXPECTED*) cannot be evaluated
+[DEBUG] testing the following: (EXAMPLE-TEST-1 EXAMPLE-TEST-2)
+[INFO] EXAMPLE-TEST-1
+[DEBUG] testing whether (+ 1 2) is EQ 4
+[ERROR] Expected EQ 4, but got 3 for (+ 1 2)
+[INFO] EXAMPLE-TEST-2
+[DEBUG] testing whether 3 is MEMBER 5
+[DEBUG] Assertion threw an error, checking all components of the test are valid
+[ERROR] The expression (MEMBER *FUNCTION* *EXPECTED*) cannot be evaluated
+[DEBUG] testing the following: (EXAMPLE-TEST-1 EXAMPLE-TEST-2)
+[INFO] EXAMPLE-TEST-1
+[DEBUG] testing whether (+ 1 2) is EQ 4
+[ERROR] Expected EQ 4, but got 3 for (+ 1 2)
+[INFO] EXAMPLE-TEST-2
+[DEBUG] testing whether 3 is MEMBER 5
+[DEBUG] Assertion threw an error, checking all components of the test are valid
+[ERROR] The expression (MEMBER *FUNCTION* *EXPECTED*) cannot be evaluated
+[DEBUG] testing the following: NIL
+[DEBUG] testing the following: NIL
+[DEBUG] testing the following: NIL
+[DEBUG] testing whether (+ 1 2) is EQ 4
+[ERROR] Expected EQ 4, but got 3 for (+ 1 2)
+[DEBUG] testing the following: (EXAMPLE-TEST-1)
+[INFO] EXAMPLE-TEST-1
+[DEBUG] testing whether (+ 1 2) is EQU 4
+[ERROR] Expected EQU 4, but got 3 for (+ 1 2)
+[DEBUG] testing the following: (EXAMPLE-TEST-1)
+[INFO] EXAMPLE-TEST-1
+[DEBUG] testing whether (+ 1 2) is EQU 4
+[INFO] Pass
