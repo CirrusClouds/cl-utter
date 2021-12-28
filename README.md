@@ -7,5 +7,5 @@ Deftest macro is used to define tests based on comparators between functions and
 Un-comment the example tests in the main file and run (test-all) to see the library in action. Deftest automatically pushes new tests to the global list & test-all will run them in order of definition
 
 
-To add: - Allow user to define and populate non-global test groups (yawn, kind of too easy, maybe when I really need to)
-- Decide when to throw the user into a debugger for failed expressions to see if they want to re-write them in the debugger? 
+To add: 
+- Log Analysers
